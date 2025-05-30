@@ -22,7 +22,7 @@ Using Raspberry Pi as a hardware-based key to validate user access by checking G
 
 <p align="center">
 Current Directories: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://placeholder.png" height="80%" width="80%" alt="Placeholder txt"/>
 <br />
 <!-- If you're going to add another img below you've got to an extra br beforehand -->
 <br />
